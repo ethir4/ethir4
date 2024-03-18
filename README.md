@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ethir4</h1>
+<h1 align="center">think locally, be UNIC.</h1>
 
 <h3 align="center">Here u will see stuff about:</h3>
 <p align="center">
